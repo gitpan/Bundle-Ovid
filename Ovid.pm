@@ -1,6 +1,6 @@
 package Bundle::Ovid;
 
-$VERSION = '1.0';
+$VERSION = '1.01';
 
 1;
 
@@ -8,7 +8,7 @@ __END__
 
 =head1 NAME
 
-Bundle::Interchange - Things Ovid wants in a fresh Perl install
+Bundle::Ovid - Things Ovid wants in a fresh Perl install
 
 =head1 SYNOPSIS
 
